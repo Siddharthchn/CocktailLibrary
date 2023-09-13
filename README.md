@@ -16,9 +16,11 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project:-
+<br>
+
+![Cocktail](https://github.com/Siddharthchn/CocktailLibrary/assets/109435160/43cd3c5f-dc0b-4e00-9f5c-7eeb5458a0be)
 
 
-![Gerichtss](https://github.com/Siddharthchn/Gericht-Restaurant-Website/assets/109435160/a069bfe6-8ec2-48e9-bffa-00279fd37595)
 
 
 
